@@ -1,9 +1,8 @@
 # Real-Time-Face-Detection-with-OpenCV-and-Streamlit
 
-Blog Post: https://medium.com/@611noorsaeed/real-time-face-detection-with-opencv-and-streamlit-04f3a601499d
+Face detection is a fundamental task in computer vision with numerous applications in security, surveillance, biometrics, and more. In this tutorial, we'll explore how to perform real-time face detection 
 
-
-Face detection is a fundamental task in computer vision with numerous applications in security, surveillance, biometrics, and more. In this tutorial, we'll explore how to perform real-time face detection using OpenCV and create a simple web application using Streamlit to interactively detect faces either from a live camera feed or an uploaded image.
+using OpenCV and create a simple web application using Streamlit to interactively detect faces either from a live camera feed or an uploaded image.
 
 
 # Setting Up the Environment
@@ -25,6 +24,5 @@ Next, let's implement face detection from uploaded images. We'll enhance the Str
 # Conclusion
 
 
-In this tutorial, we've learned how to perform real-time face detection using OpenCV and Streamlit. We've implemented face detection from a live webcam stream and enhanced the application to allow users to upload images for face detection. This simple web application can be further extended and customized for various face detection tasks.
+We've implemented face detection from a live webcam stream and enhanced the application to allow users to upload images for face detection. This simple web application can be further extended and customized for various face detection tasks.
 
-Stay tuned for more tutorials on computer vision and web application development with Python!
